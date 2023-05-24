@@ -1,1 +1,5 @@
-{"cardAll":"Kreditkartenbetrag","cashAll":"Banknotenbetrag","coinAll":"Münzbetrag"}
+{
+    "cardAll": "Kreditkartenbetrag",
+    "cashAll": "Banknotenbetrag",
+    "coinAll": "Münzbetrag"
+}

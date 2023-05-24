@@ -1,1 +1,7 @@
-{"chartAgentRank":"Agentenverkäufe Top-Ten-Ranking","machineOffline":"Offline-Gerät","numberMonth":"Verkäufe in diesem Monat","saleMonth":"Verkäufe in diesem Monat","saleYear":"Jahresumsatz"}
+{
+    "chartAgentRank": "Agentenverkäufe Top-Ten-Ranking",
+    "machineOffline": "Offline-Gerät",
+    "numberMonth": "Verkaufsvolumen in diesem Monat",
+    "saleMonth": "Verkaufsbetrag in diesem Monat",
+    "saleYear": "Jahresumsatz"
+}

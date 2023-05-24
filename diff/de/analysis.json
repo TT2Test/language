@@ -1,1 +1,6 @@
-{"agentChildNum":"Anzahl der untergeordneten Agenten","agentNum":"Anzahl der Agenten","saleMoney":"Verkauf","saleNum":"Verkauf"}
+{
+    "agentChildNum": "Anzahl der untergeordneten Agenten",
+    "agentNum": "Anzahl der Agenten",
+    "saleMoney": "Verkaufsbetrag",
+    "saleNum": "Verkaufsvolumen"
+}
