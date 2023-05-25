@@ -1,1 +1,44 @@
-{"adultAge":"adult age","age":"age","androidVersion":"android version","androidVersionLocal":"native android","androidVersionPrimary":"normal android","appUpdate":"app update","authOcr":"OCR","authRflib":"OCR RFLIB","coin":{"add":"Add currency warehouse","capacity":"Coin warehouse capacity","code":"Warehouse No.","currencyCode":"currency number","currencyName":"currency name","currencySymbol":"currency symbol","currencyValue":"monetary value","hardMoney":"coin","log":"Coin Warehouse Log","logClear":"Empty the currency warehouse","logSubmit":"Report currency stocks","logType":"log type","manager":"Currency Warehouse Management","paperMoney":"banknotes","refund":"refund warehouse","stockCurrent":"Current inventory","type":"currency type","warehouseSave":"Savings warehouse","warehouseType":"Currency Warehouse Type"},"copyChannel":"Copy lane","copyTarget":"Copy to target device","currency":"transaction currency","machineEmpty":"No device information yet!","onlineDurationMsg":"(based on Beijing time)","stats":{"fault":"Number of faulty devices","offline":"Number of offline devices","online":"Number of online devices","stock":"Number of Out of Stock Devices","total":"total number of devices"},"tempCurrent":"Current Temperature"}
+{
+    "adultAge": "Adult age",
+    "age": "years old",
+    "androidVersion": "Android version",
+    "androidVersionLocal": "Native android",
+    "androidVersionPrimary": "Normal android",
+    "appUpdate": "App update",
+    "authOcr": "OCR",
+    "authRflib": "OCR+RFLIB",
+    "coin": {
+        "add": "Add currency warehouse",
+        "capacity": "Currency warehouse capacity",
+        "code": "Warehouse No.",
+        "currencyCode": "Currency number",
+        "currencyName": "Currency name",
+        "currencySymbol": "Currency symbol",
+        "currencyValue": "Currency value",
+        "hardMoney": "Coin",
+        "log": "Coin warehouse Log",
+        "logClear": "Empty the currency warehouse",
+        "logSubmit": "Report currency stocks",
+        "logType": "Log type",
+        "manager": "Currency warehouse management",
+        "paperMoney": "Banknotes",
+        "refund": "Refund warehouse",
+        "stockCurrent": "Current inventory",
+        "type": "Currency type",
+        "warehouseSave": "Savings warehouse",
+        "warehouseType": "Currency warehouse type"
+    },
+    "copyChannel": "Copy aisle",
+    "copyTarget": "Copy to target device",
+    "currency": "Transaction currency",
+    "machineEmpty": "No device info yet!",
+    "onlineDurationMsg": "(Based on Beijing time)",
+    "stats": {
+        "fault": "Faulty devices quantity",
+        "offline": "Offline devices quantity",
+        "online": "Online devices quantity",
+        "stock": "Out of stock devices quantity",
+        "total": "Total number of devices"
+    },
+    "tempCurrent": "Current temperature"
+}

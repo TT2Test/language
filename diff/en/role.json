@@ -1,1 +1,9 @@
-{"DistributeTypes":"Account sharing method","copyEmailToAgent":"Do you want to copy the email template of the current account to this agent?","salesDayNotice":"Daily sales summary notification","salesMonthNotice":"Monthly Sales Summary Notice","salesYearNotice":"Annual Sales Summary Notice","warehouseGoodsNotice":"Warehouse Commodity Alert","warehouseStockNotice":"Warehouse total inventory warning"}
+{
+    "DistributeTypes": "Account sharing method",
+    "copyEmailToAgent": "Do you want to copy the email template of the current account to this agent?",
+    "salesDayNotice": "Daily sales summary notice",
+    "salesMonthNotice": "Monthly sales summary notice",
+    "salesYearNotice": "Annual sales summary notice",
+    "warehouseGoodsNotice": "Warehouse Product alert",
+    "warehouseStockNotice": "Warehouse total inventory warning"
+}

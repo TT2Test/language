@@ -1,1 +1,5 @@
-{"cardAll":"Credit card amount","cashAll":"banknote amount","coinAll":"coin amount"}
+{
+    "cardAll": "Credit card amount",
+    "cashAll": "Banknote amount",
+    "coinAll": "Coin amount"
+}

@@ -1,1 +1,15 @@
-{"account":"user settings","advMaterial":"Creative management","area":"District management","areaCity":"city ​​management","areaCountry":"country management","areaState":"Regional management","currency":"currency management","email":"mail management","emailConfig":"mail configuration","emailLog":"notification log","emailTemplate":"email template","emailTemplateEdit":"Email Template Editing","goodsPublic":"Common Goods Library"}
+{
+    "account": "User settings",
+    "advMaterial": "Creative management",
+    "area": "District management",
+    "areaCity": "City ​​management",
+    "areaCountry": "Country management",
+    "areaState": "Regional management",
+    "currency": "Currency management",
+    "email": "Email management",
+    "emailConfig": "Email configuration",
+    "emailLog": "Notification log",
+    "emailTemplate": "Email template",
+    "emailTemplateEdit": "Email template editing",
+    "goodsPublic": "Common product library"
+}

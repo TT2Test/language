@@ -1,1 +1,26 @@
-{"areaAdd":"add area","areaDel":"delete area","areaName":"area name","belongCountry":"Country","belongState":"Region","capital":"capital","cityAdd":"add city","cityDel":"delete city","cityName":"city ​​name","countryAdd":"add country","countryCode":"country number","countryDel":"remove country","countryShort":"country abbreviation","currencyAdd":"add currency","currencyConfig":"currency settings","currencyDel":"delete currency","flag":"flag","language":"language","localName":"local name","nameShortThree":"Abbreviation (three digits)","nameShortTwo":"Abbreviation (two digits)","phoneCode":"Phone area code","stateName":"area number","timeZone":"Time zone"}
+{
+    "areaAdd": "Add area",
+    "areaDel": "Delete area",
+    "areaName": "Area name",
+    "belongCountry": "Country",
+    "belongState": "Area",
+    "capital": "Capital",
+    "cityAdd": "Add city",
+    "cityDel": "Delete city",
+    "cityName": "City ​​name",
+    "countryAdd": "Add country",
+    "countryCode": "Country number",
+    "countryDel": "Delete country",
+    "countryShort": "Country abbreviation",
+    "currencyAdd": "Add currency",
+    "currencyConfig": "Currency settings",
+    "currencyDel": "Delete currency",
+    "flag": "Flag",
+    "language": "Language",
+    "localName": "Local name",
+    "nameShortThree": "Abbreviation (three digits)",
+    "nameShortTwo": "Abbreviation (two digits)",
+    "phoneCode": "Phone area code",
+    "stateName": "Area number",
+    "timeZone": "Time zone"
+}
