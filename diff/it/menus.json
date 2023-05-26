@@ -1,1 +1,15 @@
-{"account":"impostazioni utente","advMaterial":"Gestione Creativa","area":"Gestione distrettuale","areaCity":"amministrazione della città","areaCountry":"gestione del paese","areaState":"Gestione regionale","currency":"gestione valutaria","email":"gestione della posta","emailConfig":"configurazione della posta","emailLog":"registro delle notifiche","emailTemplate":"modello di posta elettronica","emailTemplateEdit":"Modifica del modello di posta elettronica","goodsPublic":"Biblioteca dei beni comuni"}
+{
+    "account": "impostazioni utente",
+    "advMaterial": "Gestione Creativa",
+    "area": "Gestione distrettuale",
+    "areaCity": "amministrazione della città",
+    "areaCountry": "gestione del paese",
+    "areaState": "Gestione regionale",
+    "currency": "gestione valutaria",
+    "email": "gestione della posta",
+    "emailConfig": "configurazione della posta",
+    "emailLog": "registro delle notifiche",
+    "emailTemplate": "modello di posta elettronica",
+    "emailTemplateEdit": "Modifica del modello di posta elettronica",
+    "goodsPublic": "biblioteca di prodotti pubblici"
+}

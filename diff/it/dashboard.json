@@ -1,1 +1,7 @@
-{"chartAgentRank":"Top ten delle vendite degli agenti","machineOffline":"dispositivo offline","numberMonth":"Vendite questo mese","saleMonth":"Vendite questo mese","saleYear":"saldi annuali"}
+{
+    "chartAgentRank": "Classifica dei primi dieci venditori di agenti",
+    "machineOffline": "dispositivo offline",
+    "numberMonth": "Numero di vendite questo mese",
+    "saleMonth": "Importo delle vendite di questo mese",
+    "saleYear": "vendite annuali"
+}
