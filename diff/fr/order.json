@@ -1,1 +1,5 @@
-{"cardAll":"Montant de la carte de crédit","cashAll":"montant du billet","coinAll":"montant de la pièce"}
+{
+    "cardAll": "Montant de la carte de crédit",
+    "cashAll": "montant du billet de banque",
+    "coinAll": "montant de la piécette"
+}

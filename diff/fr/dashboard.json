@@ -1,1 +1,7 @@
-{"chartAgentRank":"Classement des dix premiers vendeurs d'agents","machineOffline":"appareil hors ligne","numberMonth":"Ventes ce mois-ci","saleMonth":"Ventes ce mois-ci","saleYear":"chiffre d'affaires annuel"}
+{
+    "chartAgentRank": "Classement des dix premiers vendeurs d'agents",
+    "machineOffline": "appareil hors ligne",
+    "numberMonth": "Nombre de ventes ce mois-ci",
+    "saleMonth": "Nombre de ventes ce mois-ci",
+    "saleYear": "chiffre d'affaires annuel"
+}
