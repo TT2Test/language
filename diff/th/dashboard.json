@@ -1,1 +1,7 @@
-{"chartAgentRank":"ยอดขายตัวแทนสิบอันดับแรก","machineOffline":"อุปกรณ์ออฟไลน์","numberMonth":"ยอดขายเดือนนี้","saleMonth":"ยอดขายเดือนนี้","saleYear":"ยอดขายประจำปี"}
+{
+    "chartAgentRank": "ยอดขายตัวแทนสิบอันดับแรก",
+    "machineOffline": "อุปกรณ์ออฟไลน์",
+    "numberMonth": "จำนวนการขายในเดือนนี้",
+    "saleMonth": "ยอดขายเดือนนี้",
+    "saleYear": "ยอดขายประจำปี"
+}

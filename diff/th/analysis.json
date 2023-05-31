@@ -1,1 +1,6 @@
-{"agentChildNum":"จำนวนตัวแทนย่อย","agentNum":"จำนวนตัวแทน","saleMoney":"ฝ่ายขาย","saleNum":"ฝ่ายขาย"}
+{
+    "agentChildNum": "จำนวนตัวแทนย่อย",
+    "agentNum": "เบอร์ตัวแทน",
+    "saleMoney": "ยอดขาย",
+    "saleNum": "ปริมาณการขาย"
+}
