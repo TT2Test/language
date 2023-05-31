@@ -1,1 +1,5 @@
-{"cardAll":"Valor do cartão de crédito","cashAll":"valor da nota","coinAll":"quantidade de moeda"}
+{
+    "cardAll": "Valor do cartão de crédito",
+    "cashAll": "valor da nota bancárias",
+    "coinAll": "valor da moeda"
+}

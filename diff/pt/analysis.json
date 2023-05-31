@@ -1,1 +1,6 @@
-{"agentChildNum":"Número de agentes subordinados","agentNum":"Número de agentes","saleMoney":"vendas","saleNum":"Vendas"}
+{
+    "agentChildNum": "Número de agentes subordinados",
+    "agentNum": "Número de agentes",
+    "saleMoney": "Volume de vendas",
+    "saleNum": "Quantidade de vendas"
+}
