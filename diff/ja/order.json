@@ -1,1 +1,5 @@
-{"cardAll":"クレジットカードの金額","cashAll":"紙幣の金額","coinAll":"コイン量"}
+{
+    "cardAll": "クレジットカードの金額",
+    "cashAll": "紙幣金額",
+    "coinAll": "コイン金額"
+}

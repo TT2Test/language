@@ -1,1 +1,6 @@
-{"agentChildNum":"従属エージェントの数","agentNum":"エージェント数","saleMoney":"販売","saleNum":"販売"}
+{
+    "agentChildNum": "従属エージェントの数",
+    "agentNum": "エージェントの数",
+    "saleMoney": "販売金額",
+    "saleNum": "販売数量"
+}

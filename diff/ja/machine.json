@@ -1,1 +1,44 @@
-{"appUpdate":"アプリの更新","onlineDurationMsg":"(北京時間に基づく)","stats":{"fault":"障害のあるデバイスの数","offline":"オフライン デバイスの数","online":"オンライン デバイスの数","stock":"在庫切れデバイスの数","total":"デバイスの総数"},"tempCurrent":"現在の温度"}
+{
+    "adultAge": "成人年齢",
+    "age": "歳",
+    "androidVersion": "アンドロイドのバージョン",
+    "androidVersionLocal": "ネイティブアンドロイド",
+    "androidVersionPrimary": "通常のアンドロイド",
+    "appUpdate": "アプリの更新",
+    "authOcr": "OCR",
+    "authRflib": "OCR+RFLIB",
+    "coin": {
+        "add": "通貨倉庫を追加する",
+        "capacity": "通貨倉庫の容量",
+        "code": "倉庫番号",
+        "currencyCode": "通貨番号",
+        "currencyName": "通貨名",
+        "currencySymbol": "通貨記号",
+        "currencyValue": "通貨価値",
+        "hardMoney": "コイン",
+        "log": "通貨倉庫ログ",
+        "logClear": "通貨倉庫を空にする",
+        "logSubmit": "通貨株式を報告する",
+        "logType": "ログタイプ",
+        "manager": "通貨倉庫管理",
+        "paperMoney": "紙幣",
+        "refund": "返金倉庫",
+        "stockCurrent": "現在の在庫",
+        "type": "通貨タイプ",
+        "warehouseSave": "貯蓄倉庫",
+        "warehouseType": "通貨倉庫タイプ"
+    },
+    "copyChannel": "コピーレーン",
+    "copyTarget": "ターゲットデバイスにコピーする",
+    "currency": "取引通貨",
+    "machineEmpty": "デバイス情報がまだありません。",
+    "onlineDurationMsg": "(北京時間に基づく)",
+    "stats": {
+        "fault": "障害のあるデバイスの数",
+        "offline": "オフライン デバイスの数",
+        "online": "オンライン デバイスの数",
+        "stock": "在庫切れデバイスの数",
+        "total": "デバイスの総数"
+    },
+    "tempCurrent": "現在の温度"
+}
