@@ -1,1 +1,7 @@
-{"chartAgentRank":"Ranking pierwszej dziesiątki sprzedaży agentów","machineOffline":"urządzenie offline","numberMonth":"Sprzedaż w tym miesiącu","saleMonth":"Sprzedaż w tym miesiącu","saleYear":"coroczne wyprzedaże"}
+{
+    "chartAgentRank": "Ranking pierwszej dziesiątki sprzedaży agentów",
+    "machineOffline": "urządzenie offline",
+    "numberMonth": "Liczba sprzedaży w tym miesiącu",
+    "saleMonth": "Kwota sprzedaży w tym miesiącu",
+    "saleYear": "coroczne wyprzedaże"
+}

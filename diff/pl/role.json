@@ -1,1 +1,9 @@
-{"DistributeTypes":"Metoda udostępniania konta","copyEmailToAgent":"Czy chcesz skopiować szablon wiadomości e-mail z bieżącego konta do tego agenta?","salesDayNotice":"Powiadomienie o dziennym podsumowaniu sprzedaży","salesMonthNotice":"Powiadomienie o miesięcznym podsumowaniu sprzedaży","salesYearNotice":"Zawiadomienie o rocznym podsumowaniu sprzedaży","warehouseGoodsNotice":"Alert dotyczący towarów w magazynie","warehouseStockNotice":"Ostrzeżenie o całkowitym stanie magazynowym"}
+{
+    "DistributeTypes": "Metoda udostępniania konta",
+    "copyEmailToAgent": "Czy chcesz skopiować szablon wiadomości e-mail z bieżącego konta do tego agenta?",
+    "salesDayNotice": "Powiadomienie o dziennym podsumowaniu sprzedaży",
+    "salesMonthNotice": "Powiadomienie o miesięcznym podsumowaniu sprzedaży",
+    "salesYearNotice": "Zawiadomienie o rocznym podsumowaniu sprzedaży",
+    "warehouseGoodsNotice": "Ostrzeżenie o towarach",
+    "warehouseStockNotice": "Ostrzeżenie o zapasach całkowitych"
+}

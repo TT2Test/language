@@ -1,1 +1,6 @@
-{"agentChildNum":"Liczba podległych agentów","agentNum":"Liczba agentów","saleMoney":"obroty","saleNum":"Obroty"}
+{
+    "agentChildNum": "Liczba podległych agentów",
+    "agentNum": "Liczba agentów",
+    "saleMoney": "Suma sprzedaży",
+    "saleNum": "Wielkość sprzedaży"
+}

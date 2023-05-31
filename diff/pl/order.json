@@ -1,1 +1,5 @@
-{"cardAll":"Kwota karty kredytowej","cashAll":"ilość banknotów","coinAll":"ilość monet"}
+{
+    "cardAll": "Kwota karty kredytowej",
+    "cashAll": "kwota banknotu",
+    "coinAll": "kwota monet"
+}
