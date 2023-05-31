@@ -1,1 +1,7 @@
-{"chartAgentRank":"Prodej agentů v žebříčku první desítky","machineOffline":"offline zařízení","numberMonth":"Prodej tento měsíc","saleMonth":"Prodej tento měsíc","saleYear":"roční tržby"}
+{
+    "chartAgentRank": "Prodej agentů v žebříčku první desítky",
+    "machineOffline": "offline zařízení",
+    "numberMonth": "Počet prodejů za tento měsíc",
+    "saleMonth": "Prodejní částka tento měsíc",
+    "saleYear": "roční tržby"
+}

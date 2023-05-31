@@ -1,1 +1,44 @@
-{"appUpdate":"aktualizace aplikace","onlineDurationMsg":"(podle pekingského času)","stats":{"fault":"Počet vadných zařízení","offline":"Počet offline zařízení","online":"Počet online zařízení","stock":"Počet vyprodaných zařízení","total":"celkový počet zařízení"},"tempCurrent":"Aktuální teplota"}
+{
+    "adultAge": "dospělý věk",
+    "age": "let starý",
+    "androidVersion": "android verze",
+    "androidVersionLocal": "nativní android",
+    "androidVersionPrimary": "normální android",
+    "appUpdate": "aktualizace aplikace",
+    "authOcr": "OCR",
+    "authRflib": "OCR+RFLIB",
+    "coin": {
+        "add": "Přidat sklad měn",
+        "capacity": "Kapacita skladu mincí",
+        "code": "Sklad č.",
+        "currencyCode": "číslo měny",
+        "currencyName": "název měny",
+        "currencySymbol": "symbol měny",
+        "currencyValue": "měny hodnota",
+        "hardMoney": "mince",
+        "log": "Záznam skladu mincí",
+        "logClear": "Vyprázdněte sklad měn",
+        "logSubmit": "Hlásit zásoby měny",
+        "logType": "typ log",
+        "manager": "Správa měnového skladu",
+        "paperMoney": "bankovky",
+        "refund": "sklad pro vrácení peněz",
+        "stockCurrent": "Aktuální inventář",
+        "type": "typ měny",
+        "warehouseSave": "Úsporný sklad",
+        "warehouseType": "Typ skladu měn"
+    },
+    "copyChannel": "Kopírovat uličky",
+    "copyTarget": "Kopírovat do cílového zařízení",
+    "currency": "transakční měna",
+    "machineEmpty": "Zatím žádné informace o zařízení!",
+    "onlineDurationMsg": "(podle pekingského času)",
+    "stats": {
+        "fault": "Počet vadných zařízení",
+        "offline": "Počet offline zařízení",
+        "online": "Počet online zařízení",
+        "stock": "Počet vyprodaných zařízení",
+        "total": "celkový počet zařízení"
+    },
+    "tempCurrent": "Aktuální teplota"
+}

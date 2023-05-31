@@ -1,1 +1,5 @@
-{"cardAll":"Částka kreditní karty","cashAll":"částka bankovky","coinAll":"množství mincí"}
+{
+    "cardAll": "Částka kreditní karty",
+    "cashAll": "částka bankovky",
+    "coinAll": "částka mince"
+}

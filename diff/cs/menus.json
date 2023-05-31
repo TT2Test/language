@@ -1,1 +1,15 @@
-{"account":"uživatelské nastavení","advMaterial":"Creative Management","area":"Okresní vedení","areaCity":"vedení města","areaCountry":"řízení země","areaState":"Regionální management","currency":"správa měny","email":"správa pošty","emailConfig":"konfigurace pošty","emailLog":"protokol upozornění","emailTemplate":"šablona e-mailu","emailTemplateEdit":"Úprava šablony e-mailu","goodsPublic":"Knihovna běžného zboží"}
+{
+    "account": "uživatelské nastavení",
+    "advMaterial": "Kreativní řízení",
+    "area": "Okresní vedení",
+    "areaCity": " management města",
+    "areaCountry": "řízení země",
+    "areaState": "Regionální management",
+    "currency": "správa měny",
+    "email": "správa pošty",
+    "emailConfig": "konfigurace pošty",
+    "emailLog": "protokol upozornění",
+    "emailTemplate": "šablona e-mailu",
+    "emailTemplateEdit": "Úprava šablony e-mailu",
+    "goodsPublic": "veřejná knihovna produktů"
+}
